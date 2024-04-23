@@ -7,6 +7,7 @@ import { workData, projectsData } from './components/Data';
 import { Card } from './components/Card';
 
 function App() {
+  //updated
   return (
     <div className="App">
       <Navbar />
